@@ -175,6 +175,6 @@ Step by step:
   @endsection
   ```
 * Create, Read, Update & Delete in Task.vue
-  This part is too long to read, so just watch it in repo's code, it located in [**/resource/assets/js/components/Task.vue**](./blob/master/resource/assets/js/components/Task.vue)
+  This part is too long to read, so just watch it in repo's code, it located in [**/resource/assets/js/components/Task.vue**](./resource/assets/js/components/Task.vue)
 
 Source Tutorial: [Create A Laravel Vue Single Page App In Under An Hour](https://www.cloudways.com/blog/laravel-vue-single-page-app/)
